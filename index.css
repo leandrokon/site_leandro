@@ -205,6 +205,9 @@
                 #page1 .description {
                     margin: 0;
                 }
+                #page2 .cursos {
+                    margin-top: 5vh;
+                }
                 #page3 .content {
                     display: flex;
                     flex-direction: column;
@@ -212,5 +215,26 @@
                 }
                 #page3 .social-media {
                     margin: 3vh;
+                }
+            }
+            
+            @media (max-height: 500px) {
+                .large {
+                    width: 100px;
+                    height: 100px;
+                }
+                #page1 .title {
+                    margin-top: 15vh;
+                }
+                #page1 .img-profile {
+                    margin: 0;
+                    align-items: center;
+                }
+                #page1 .description {
+                    margin: 0;
+                }
+                #page3 .content {
+                    display: flex;
+                    flex-direction: initial;
                 }
             }
