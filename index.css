@@ -232,6 +232,7 @@
                 }
                 #page1 .description {
                     margin: 0;
+                    width: 70vw;
                 }
                 #page3 .content {
                     display: flex;
