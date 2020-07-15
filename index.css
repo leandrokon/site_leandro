@@ -18,7 +18,7 @@
             
             h2,
             h3 {
-                color: #845ec2;
+                color: #c3b8d4;
                 font-family: 'Open Sans', sans-serif;
                 font-weight: 700;
                 font-size: 18px;
@@ -67,7 +67,7 @@
                 cursor: pointer;
                 font-weight: 800;
                 font-size: 22px;
-                color: #845ec2;
+                color: #c3b8d4;
             }
             
             .menu label:hover {
